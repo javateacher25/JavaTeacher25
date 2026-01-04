@@ -1,11 +1,37 @@
 # 👨‍🏫 Java Backend Classroom
 
-Professional Java Developer • Backend Engineer • Instructor  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge&logo=eclipse-vertx&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-EF1C2D?style=for-the-badge&logo=jakartaee&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## 📊 GitHub Stats
+
+![JavaTeacher25's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavaTeacher25&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaTeacher25&layout=compact&theme=tokyonight&hide_border=true)
+
+
+**Farshad Fallah**  
+Professional Java Developer • Software Engineer • Instructor  
 From **Programming Fundamentals** to **Enterprise Systems & AI**
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-JavaTeacher25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JavaTeacher25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JavaTeacher25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JavaTeacher25)
+
 
 ---
 
 ## 👋 Welcome
+
+
+
 
 This GitHub profile is my **classroom hub**.  
 Here you will find **real-world Java**, taught step by step — not just theory.
@@ -128,9 +154,22 @@ My goal is to help students:
 
 ---
 
+## 📘 Course Reference
+
+This classroom is **based on the OCP (Oracle Certified Professional – Java SE) curriculum**.
+
+- Concepts follow **official Oracle Java standards**
+- Strong focus on **core language understanding**
+- Prepares students for **advanced Java development**
+- Solid foundation for **OCP Java certification paths**
+
+
 ## 🚀 Final Note
 
 This is not just a class.  
 It is a **path to becoming a real Java backend developer**.
 
 Welcome to the journey ☕🚀
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JavaTeacher25&theme=tokyonight&hide_border=true)
+
